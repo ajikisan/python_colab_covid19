@@ -10,7 +10,7 @@
 <br> - [x] [Colab](https://colab.research.google.com/)
 <br> - [x] Python V3 
 
-<h2> Bibliotecas <>
+<h2> Bibliotecas </h2>
 <br>Ferramentas utilizadas para construção de estrutura, manipulação,processamento numérico, construção de gráficos e limpeza de dados.
 <br> pandas
 <br> numpy
